@@ -86,9 +86,13 @@ def save_queue(q):
 
 
 def next_item(q):
+    """Следующий по порядку пост, для которого фото уже загружено.
+    Посты без фото (вы их удалили из подборки) просто пропускаются."""
     today = datetime.date.today().isoformat()
+    if any(i.get("published_at", "").startswith(today) for i in q):
+        return None  # сегодня уже публиковали
     for item in q:
-        if item["status"] == "pending" and item["date"] <= today:
+        if item["status"] == "pending" and os.path.exists(os.path.join(BASE, "photos", item["file"])):
             return item
     return None
 
@@ -133,14 +137,15 @@ def main():
     q = load_queue()
     if "--status" in args:
         for i in q:
-            print(f"{i['day']:>2}. {i['date']}  {i['status']:<9} {i['file']}")
+            has = "фото есть" if os.path.exists(os.path.join(BASE, "photos", i["file"])) else "нет фото"
+            print(f"{i['day']:>2}. {i['status']:<9} {has:<9} {i['file']}")
         return
     dry = "--dry-run" in args
     if not dry and not (IG_USER_ID and TOKEN and PUBLIC_BASE_URL):
         sys.exit("Не заданы IG_USER_ID, IG_ACCESS_TOKEN или PUBLIC_BASE_URL")
     item = next_item(q)
     if not item:
-        log("На сегодня публикаций нет"); return
+        log("Публиковать нечего: сегодня уже был пост или нет загруженных фото"); return
     try:
         media_id = publish(item, dry)
         if dry:

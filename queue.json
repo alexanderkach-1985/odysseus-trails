@@ -1,7 +1,6 @@
 [
   {
     "day": 1,
-    "date": "2026-11-03",
     "file": "01_rhinos.jpg",
     "caption": "Глава 1: Африка. Носороги в заповеднике Imire, Зимбабве — живые динозавры саванны.\n\nChapter 1: Africa. Rhinos at Imire, Zimbabwe — living dinosaurs of the savanna.\n\n#rhino #zimbabwe #imire #wildlife #africa #safari",
     "status": "pending",
@@ -10,7 +9,6 @@
   },
   {
     "day": 2,
-    "date": "2026-11-04",
     "file": "02_zebras.jpg",
     "caption": "Две зебры — ни одной одинаковой полоски. Зимбабве.\n\nTwo zebras — not a single stripe alike. Zimbabwe.\n\n#zebra #africa #wildlife #safari #zimbabwe",
     "status": "pending",
@@ -19,7 +17,6 @@
   },
   {
     "day": 3,
-    "date": "2026-11-05",
     "file": "03_giraffe.jpg",
     "caption": "Жираф выходит из-за деревьев. Imire, Зимбабве.\n\nA giraffe steps out of the trees. Imire, Zimbabwe.\n\n#giraffe #savanna #zimbabwe #wildlife #africa",
     "status": "pending",
@@ -28,7 +25,6 @@
   },
   {
     "day": 4,
-    "date": "2026-11-06",
     "file": "04_antelopes.jpg",
     "caption": "Антилопы в сухой траве саванны.\n\nAntelopes in the dry savanna grass.\n\n#antelope #africa #wildlife #savanna #zimbabwe",
     "status": "pending",
@@ -37,7 +33,6 @@
   },
   {
     "day": 5,
-    "date": "2026-11-07",
     "file": "05_warthogs.jpg",
     "caption": "Бородавочники — местные хозяева саванны.\n\nWarthogs — the locals of the savanna.\n\n#warthog #africa #wildlife #zimbabwe #safari",
     "status": "pending",
@@ -46,7 +41,6 @@
   },
   {
     "day": 6,
-    "date": "2026-11-08",
     "file": "06_balancing_rocks.jpg",
     "caption": "Камни, которые держатся друг на друге миллионы лет. Под Хараре.\n\nRocks balancing for millions of years. Near Harare.\n\n#balancingrocks #zimbabwe #harare #africa #landscape",
     "status": "pending",
@@ -55,7 +49,6 @@
   },
   {
     "day": 7,
-    "date": "2026-11-09",
     "file": "07_wing_sunset.jpg",
     "caption": "Закат на крыле. Следующая остановка — Москва.\n\nSunset on the wing. Next stop — Moscow.\n\n#windowseat #sunset #aviation #travel #flight",
     "status": "pending",
@@ -64,7 +57,6 @@
   },
   {
     "day": 8,
-    "date": "2026-11-10",
     "file": "08_moscow_red_sky.jpg",
     "caption": "Глава 2: Москва. Город встречает огненным небом.\n\nChapter 2: Moscow. The city greets me with a sky on fire.\n\n#moscow #sunset #redsky #clouds #russia",
     "status": "pending",
@@ -73,7 +65,6 @@
   },
   {
     "day": 9,
-    "date": "2026-11-11",
     "file": "09_st_basil.jpg",
     "caption": "Собор Василия Блаженного — сказка из камня.\n\nSt. Basil's Cathedral — a fairy tale in stone.\n\n#moscow #stbasilscathedral #redsquare #architecture",
     "status": "pending",
@@ -82,7 +73,6 @@
   },
   {
     "day": 10,
-    "date": "2026-11-12",
     "file": "10_catholic_cathedral.jpg",
     "caption": "Готика в сердце Москвы — католический собор.\n\nGothic in the heart of Moscow — the Catholic cathedral.\n\n#moscow #cathedral #gothic #architecture",
     "status": "pending",
@@ -91,7 +81,6 @@
   },
   {
     "day": 11,
-    "date": "2026-11-13",
     "file": "11_new_jerusalem.jpg",
     "caption": "Новоиерусалимский монастырь — час от Москвы.\n\nNew Jerusalem Monastery — an hour from Moscow.\n\n#newjerusalem #monastery #russia #orthodox",
     "status": "pending",
@@ -100,7 +89,6 @@
   },
   {
     "day": 12,
-    "date": "2026-11-14",
     "file": "12_sunflowers_storm.jpg",
     "caption": "Глава 3: по России. Гроза над полем подсолнухов, Воронежская область.\n\nChapter 3: across Russia. A storm over sunflowers, Voronezh region.\n\n#sunflowers #storm #russia #fields #nature",
     "status": "pending",
@@ -109,7 +97,6 @@
   },
   {
     "day": 13,
-    "date": "2026-11-15",
     "file": "13_swan.jpg",
     "caption": "Белый лебедь расправляет крылья.\n\nA white swan spreads its wings.\n\n#swan #birds #wildlife #nature",
     "status": "pending",
@@ -118,7 +105,6 @@
   },
   {
     "day": 14,
-    "date": "2026-11-16",
     "file": "14_kaliningrad.jpg",
     "caption": "Кафедральный собор Калининграда — семь веков истории.\n\nKaliningrad Cathedral — seven centuries of history.\n\n#kaliningrad #cathedral #gothic #architecture",
     "status": "pending",
@@ -127,7 +113,6 @@
   },
   {
     "day": 15,
-    "date": "2026-11-17",
     "file": "15_crimea_moon.jpg",
     "caption": "Луна прокладывает дорожку к скалам. Крым.\n\nThe moon lays a path to the rocks. Crimea.\n\n#crimea #moonlight #blacksea #night #sea",
     "status": "pending",
@@ -136,7 +121,6 @@
   },
   {
     "day": 16,
-    "date": "2026-11-18",
     "file": "16_ice.jpg",
     "caption": "Лёд, вставший на дыбы.\n\nIce standing on end.\n\n#ice #winter #frozen #nature #landscape",
     "status": "pending",
@@ -145,7 +129,6 @@
   },
   {
     "day": 17,
-    "date": "2026-11-19",
     "file": "17_baikal_sunset.jpg",
     "caption": "Байкал провожает солнце.\n\nLake Baikal saying goodbye to the sun.\n\n#baikal #lakebaikal #sunset #siberia #nature",
     "status": "pending",
@@ -154,7 +137,6 @@
   },
   {
     "day": 18,
-    "date": "2026-11-20",
     "file": "18_st_patrick_nyc.jpg",
     "caption": "Глава 4: дальние страны. Собор Святого Патрика среди небоскрёбов Нью-Йорка.\n\nChapter 4: far lands. St. Patrick's Cathedral among NYC skyscrapers.\n\n#newyork #stpatrickscathedral #nyc #gothic",
     "status": "pending",
@@ -166,7 +148,6 @@
   },
   {
     "day": 19,
-    "date": "2026-11-21",
     "file": "19_niagara.jpg",
     "caption": "Ниагара: стоишь рядом — и слышишь, как дышит земля.\n\nNiagara: stand close and you hear the earth breathe.\n\n#niagarafalls #waterfall #nature #travel",
     "status": "pending",
@@ -179,11 +160,130 @@
   },
   {
     "day": 20,
-    "date": "2026-11-22",
     "file": "20_china_pagoda.jpg",
     "caption": "Пагода в горах Китая.\n\nA pagoda in the mountains of China.\n\n#china #pagoda #temple #asia #travel",
     "status": "pending",
     "ref_hash": "1110001111111001111100011111110000011110001110010001100001111101101111111001111000010111100111010001001001001101001110111100011110001100011000000010000011010010100111011101001111011111000001100001001101100111001010011100110111000001100110010000000110111001",
     "original_name": "IMG_0005"
+  },
+  {
+    "day": 21,
+    "file": "21_giraffe_drinking.jpg",
+    "caption": "Жираф на водопое — самая неудобная поза в саванне. Imire, Зимбабве.\n\nA giraffe drinking — the most awkward pose in the savanna. Imire, Zimbabwe.\n\n#giraffe #zimbabwe #imire #wildlife #africa",
+    "status": "pending",
+    "ref_hash": "1001100000010100100001001001100011000010111100011100001111100001111110111101100100110010101100010011100110110001100011110000110011100111000100010000011011001100000110001010001111010100100110011100111110000100000011111110001100111011011100111011000011011101",
+    "original_name": "IMG_1668"
+  },
+  {
+    "day": 22,
+    "file": "22_zimbabwe_hills.jpg",
+    "caption": "Холмы Зимбабве до самого горизонта.\n\nThe hills of Zimbabwe all the way to the horizon.\n\n#zimbabwe #africa #landscape #hills #nature",
+    "status": "pending",
+    "ref_hash": "1111111111000000111111111100000011111111110000001111111111100000111111111111000011111101100000001111110110101001110001101101111001110010100111100111001110010101011010001100001111000100111010011000010011101001000000111001111001100101001010110111011100001010",
+    "original_name": "IMG_9155"
+  },
+  {
+    "day": 23,
+    "file": "23_african_sunset.jpg",
+    "caption": "Африканский закат.\n\nAn African sunset.\n\n#africa #sunset #zimbabwe #sky #nature",
+    "status": "pending",
+    "ref_hash": "0000001111111111000000111111111100000011111111110000000111111111000000011111111100000011111111110000001111111111000000011111111100000110111111100000000111110110000000011111010101010001000000110011000110110100001000010001001000100001000001100000000100010110",
+    "original_name": "IMG_0849"
+  },
+  {
+    "day": 24,
+    "file": "24_gull.jpg",
+    "caption": "Чайка позирует на борту.\n\nA gull posing on deck.\n\n#seagull #birds #sea #travel #nature",
+    "status": "pending",
+    "ref_hash": "0000001100110011000000010011111100100000000111111010000000001111100001010100011100001010110011110100110011010110000110000111101000010000011011110011000001100110001000000011011100001110110010110000011111001111110000000001111110011111001000011000001111110000",
+    "original_name": "DSC07724"
+  },
+  {
+    "day": 25,
+    "file": "25_fog_lake.jpg",
+    "caption": "Утренний туман над озером, Ярославская область.\n\nMorning mist over a lake, Yaroslavl region.\n\n#russia #lake #morning #mist #nature",
+    "status": "pending",
+    "ref_hash": "1111111100000000111111110000000001011110100000000101001000101001011000011100101101001000110110110000010011110101100100010101111101000001001111100001000011100001101010011111100010100001001011001001001110001100010001111000111101111111100010111111111100001011",
+    "original_name": "20200606_041705"
+  },
+  {
+    "day": 26,
+    "file": "26_ayu_dag.jpg",
+    "caption": "Аю-Даг — Медведь-гора — с высоты. Крым.\n\nBear Mountain from above. Crimea.\n\n#crimea #ayudag #blacksea #coast #travel",
+    "status": "pending",
+    "ref_hash": "1001000011111001000010010110001111011001000010111000000000110001000000010011100000011111010000000111111000100011011110011010110100011101111010100000001110110111000010110001111000001001111011000110000101101100011001001110100011100000011011011100000001101101",
+    "original_name": "20220805_152124"
+  },
+  {
+    "day": 27,
+    "file": "27_hoarfrost.jpg",
+    "caption": "Иней превратил деревья в кружево.\n\nHoarfrost turned the trees into lace.\n\n#winter #hoarfrost #snow #russia #nature",
+    "status": "pending",
+    "ref_hash": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010100000110000000001000111000010010100111101100001110011101100000110110011010000000011001110000110100111000011001101000111110100110000000110111100101110010011",
+    "original_name": "20201206_125127"
+  },
+  {
+    "day": 28,
+    "file": "28_kazan_cathedral.jpg",
+    "caption": "Казанский собор на Красной площади.\n\nKazan Cathedral on Red Square.\n\n#moscow #redsquare #cathedral #architecture",
+    "status": "pending",
+    "ref_hash": "0011011111100101111111011100010011000011100100001100011100111000110010101111000011000001111100101110000011010100111001011010110101100001100100110110001101001111001000010011000101100001100110000110110110011100011010011000101000011011110000000101100001100011",
+    "original_name": "20210726_163348"
+  },
+  {
+    "day": 29,
+    "file": "29_riga_st_peter.jpg",
+    "caption": "Церковь Святого Петра, Рига.\n\nSt. Peter's Church, Riga.\n\n#riga #latvia #church #architecture #travel",
+    "status": "pending",
+    "ref_hash": "1111000001000101110100100101000110010010011101101110000110011100101000110001010111000000011010111111010001101111111111000111010011111000100110001111001100011111011001001101011100000011010110110001101101001011001110011001001100110011100010100110100110100100",
+    "original_name": "IMG_1222"
+  },
+  {
+    "day": 30,
+    "file": "30_gothic_interior.jpg",
+    "caption": "Готические своды.\n\nGothic vaults.\n\n#gothic #church #architecture #interior #travel",
+    "status": "pending",
+    "ref_hash": "0010101100001011101111011100010101010111001000010010001100011011101010110001001010001101001001101000100100101110100011010010111011001101001001001000101110110100100110010011011010011001001101101001100100110110100011001111011010011001111000100111100111111101",
+    "original_name": "IMG_2413"
+  },
+  {
+    "day": 31,
+    "file": "31_carved_belltower.jpg",
+    "caption": "Резная колокольня из красного кирпича.\n\nA carved red-brick bell tower.\n\n#belltower #architecture #russia #church",
+    "status": "pending",
+    "ref_hash": "1100111101000111100110101110011100011010110001010001100110110011101110010011001110110101111000010110100110010100011010011011010001101010000101000110111100110100011111110011010001101111001111000110110100111100011011011011110011101000101110100110111111111010",
+    "original_name": "20220907_142136"
+  },
+  {
+    "day": 32,
+    "file": "32_white_church.jpg",
+    "caption": "Белокаменный храм.\n\nA white-stone church.\n\n#church #architecture #russia #orthodox",
+    "status": "pending",
+    "ref_hash": "0000001111111110000000010111011000000011001111100010001100011101011101101000111000011110001001001001110011000000001110001111000111110001011000001100110011000100110111010000010010010011001100101001001100010010010110110001010011011011000101101101001100010111",
+    "original_name": "IMG_7020"
+  },
+  {
+    "day": 33,
+    "file": "33_church_stairs.jpg",
+    "caption": "Храм с парадной лестницей.\n\nA church with a grand staircase.\n\n#church #architecture #russia #travel",
+    "status": "pending",
+    "ref_hash": "0000111000101010000110000000100110101000110110000110100000011000110100000101100010110000011101011010011011000100001110110110010001100100100101000110010010010110001000111001001110010101111111101001100011110110001100001011111000110000111111110011000011101110",
+    "original_name": "IMG_2521"
+  },
+  {
+    "day": 34,
+    "file": "34_red_church.jpg",
+    "caption": "Красный храм с золотыми куполами.\n\nA red church with golden domes.\n\n#moscow #church #orthodox #architecture",
+    "status": "pending",
+    "ref_hash": "0000111111111111000001111111111100000001101111110000001011011111000100011100011111010011110001110011001101100110001100111100001001110011010010000110010001101000011001001110000111001000010001000111010001100100011101100110011001110110011001001111110001100101",
+    "original_name": "20220427_152523"
+  },
+  {
+    "day": 35,
+    "file": "35_white_blue_domes.jpg",
+    "caption": "Белые стены, тёмные купола.\n\nWhite walls, dark domes.\n\n#church #orthodox #architecture #russia",
+    "status": "pending",
+    "ref_hash": "0000000010000000000000011001001100000011100011000001101100001001001110010010001100110001101001010110100010100100010001100000011011100110011001101110100100110000011010110011000011101011001100101010110000110010111001001011000001110100101110001001011100101011",
+    "original_name": "IMG_1694"
   }
 ]
