@@ -3,6 +3,9 @@ name: Публикация в Instagram
 on:
   schedule:
     - cron: "0 16 * * *"     # 18:00 по Хараре (UTC+2)
+  push:
+    branches: [main]
+    paths: ["**.jpg", "**.jpeg", "**.JPG", "**.JPEG", "**.png", "**.PNG", "**.heic", "**.HEIC"]
   workflow_dispatch:
     inputs:
       dry_run:
@@ -16,27 +19,36 @@ permissions:
 concurrency: publish
 
 jobs:
-  publish:
+  run:
     runs-on: ubuntu-latest
+    env:
+      TZ: Africa/Harare
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - run: pip install -q pillow pillow-heif
+      - name: Разобрать загруженные фото
+        run: python sort_photos.py
+      - name: Сохранить разобранные фото
+        run: |
+          git config user.name "odysseus-bot"
+          git config user.email "odysseus-bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || (git commit -qm "Фото разобраны по очереди" && git push)
       - name: Публикация поста дня
+        if: github.event_name != 'push'
         env:
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
           PUBLIC_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/main/photos
-          TZ: Africa/Harare
         run: |
           if [ "${{ inputs.dry_run }}" = "true" ]; then python publisher.py --dry-run; else python publisher.py; fi
       - name: Сохранить статус очереди
-        if: always()
+        if: always() && github.event_name != 'push'
         run: |
-          git config user.name "odysseus-bot"
-          git config user.email "odysseus-bot@users.noreply.github.com"
           git add queue.json
-          git diff --cached --quiet || (git commit -m "Опубликован пост дня" && git push)
+          git diff --cached --quiet || (git commit -qm "Опубликован пост дня" && git push)
