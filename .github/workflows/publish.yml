@@ -1,0 +1,42 @@
+name: Публикация в Instagram
+
+on:
+  schedule:
+    - cron: "0 16 * * *"     # 18:00 по Хараре (UTC+2)
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Только проверка, без публикации"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency: publish
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Публикация поста дня
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          PUBLIC_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/main/photos
+          TZ: Africa/Harare
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then python publisher.py --dry-run; else python publisher.py; fi
+      - name: Сохранить статус очереди
+        if: always()
+        run: |
+          git config user.name "odysseus-bot"
+          git config user.email "odysseus-bot@users.noreply.github.com"
+          git add queue.json
+          git diff --cached --quiet || (git commit -m "Опубликован пост дня" && git push)
