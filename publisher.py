@@ -36,11 +36,14 @@ def load_env():
 load_env()
 API_VER = os.environ.get("IG_API_VERSION", "v26.0")
 IG_USER_ID = os.environ.get("IG_USER_ID", "")
-TOKEN = os.environ.get("IG_ACCESS_TOKEN", "")
+TOKEN = os.environ.get("IG_ACCESS_TOKEN", "").strip().strip('"').strip()
 PUBLIC_BASE_URL = os.environ.get("PUBLIC_BASE_URL", "").rstrip("/")
 TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")      # необязательно: отчёт в Telegram
 TG_CHAT_ID = os.environ.get("TG_CHAT_ID", "")
-GRAPH = f"https://graph.instagram.com/{API_VER}"
+# Ключи Instagram Login начинаются с "IG", ключи системного пользователя
+# (Unified login / бизнес-портфолио) — с "EA" и работают через graph.facebook.com
+GRAPH = (f"https://graph.facebook.com/{API_VER}" if TOKEN.startswith("EA")
+         else f"https://graph.instagram.com/{API_VER}")
 
 
 def log(msg):
@@ -137,8 +140,9 @@ def main():
     if "--check" in args:
         if not TOKEN:
             sys.exit("Секрет IG_ACCESS_TOKEN не найден")
-        me = api("GET", "me", {"fields": "user_id,username"})
-        log(f"Ключ работает: аккаунт @{me.get('username')} (id {me.get('user_id')})")
+        log(f"Ключ: {len(TOKEN)} символов, начинается на {TOKEN[:2]!r}, сервер {GRAPH}")
+        me = api("GET", IG_USER_ID, {"fields": "username,media_count"})
+        log(f"Ключ работает: аккаунт @{me.get('username')}, постов: {me.get('media_count')}")
         return
     q = load_queue()
     if "--status" in args:
