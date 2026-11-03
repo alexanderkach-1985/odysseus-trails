@@ -134,6 +134,12 @@ def main():
     args = sys.argv[1:]
     if "--refresh-token" in args:
         refresh_token(); return
+    if "--check" in args:
+        if not TOKEN:
+            sys.exit("Секрет IG_ACCESS_TOKEN не найден")
+        me = api("GET", "me", {"fields": "user_id,username"})
+        log(f"Ключ работает: аккаунт @{me.get('username')} (id {me.get('user_id')})")
+        return
     q = load_queue()
     if "--status" in args:
         for i in q:

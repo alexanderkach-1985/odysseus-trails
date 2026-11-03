@@ -12,6 +12,10 @@ on:
         description: "Только проверка, без публикации"
         type: boolean
         default: true
+      check_token:
+        description: "Проверить ключ Instagram"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -46,7 +50,7 @@ jobs:
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
           PUBLIC_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/main/photos
         run: |
-          if [ "${{ inputs.dry_run }}" = "true" ]; then python publisher.py --dry-run; else python publisher.py; fi
+          if [ "${{ inputs.check_token }}" = "true" ]; then python publisher.py --check; python publisher.py --dry-run; elif [ "${{ inputs.dry_run }}" = "true" ]; then python publisher.py --dry-run; else python publisher.py; fi
       - name: Сохранить статус очереди
         if: always() && github.event_name != 'push'
         run: |
