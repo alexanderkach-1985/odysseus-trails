@@ -2,7 +2,8 @@ name: Публикация в Instagram
 
 on:
   schedule:
-    - cron: "0 16 * * *"     # 18:00 по Хараре (UTC+2)
+    - cron: "0 6 * * *"      # 08:00 по Хараре (UTC+2)
+    - cron: "0 17 * * *"     # 19:00 по Хараре
   push:
     branches: [main]
     paths: ["**.jpg", "**.jpeg", "**.JPG", "**.JPEG", "**.png", "**.PNG", "**.heic", "**.HEIC"]
