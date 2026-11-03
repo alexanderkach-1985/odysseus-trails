@@ -15,6 +15,62 @@
   },
   {
     "day": 3,
+    "file": "00c_giraffes_silhouette.jpg",
+    "caption": "Двое против солнца. Жирафы, Зимбабве.\n\nTwo against the sun. Giraffes, Zimbabwe.\n\n#giraffe #zimbabwe #africa #wildlife #silhouette",
+    "status": "pending",
+    "ref_hash": "0100000000000100011000000000110100100000000110011001101000011011011001011001001001110101101101000101001011100001000110100110010100111000110011000111110010111010100001000111101011101110011011101111001001010001111000110000001110011010011000110000011001100000"
+  },
+  {
+    "day": 4,
+    "file": "00d_giraffe_portrait.jpg",
+    "caption": "Жираф смотрит прямо в объектив.\n\nA giraffe looking straight into the lens.\n\n#giraffe #portrait #zimbabwe #wildlife #africa",
+    "status": "pending",
+    "ref_hash": "1110100000010000100111000111111100001110010011100000110001011100000001001011010000010000111101001000000011111100100010011111010010010000111101000000110001100100000001000110110000000010001111000100000111111100000001011110110000001101111001000000100001111100"
+  },
+  {
+    "day": 5,
+    "file": "00e_giraffes_waterhole.jpg",
+    "caption": "Двое у поилки.\n\nTwo at the water trough.\n\n#giraffes #zimbabwe #africa #wildlife #safari",
+    "status": "pending",
+    "ref_hash": "0000000000010111000000000100111100000000001111110000000101111111000000001111111100000000110111110000000011111111000001001001101110000110110110010001001011111001111001101111011100011110111100000100000111111111100011001001100111001001100100001100000011001100"
+  },
+  {
+    "day": 6,
+    "file": "00f_feeding_time.jpg",
+    "caption": "Время обеда: смотрители привезли ветки, антилопы уже ждут.\n\nFeeding time: keepers bring branches, the antelopes are already waiting.\n\n#zimbabwe #africa #wildlife #conservation #safari",
+    "status": "pending",
+    "ref_hash": "0001011011001011000000000100111100100010110111010001000110011010100110010010011000000111101110001011011010100111111101001100001100010110110010010101101010110001011100110011000010110011101100100011111100001000111000011111111111111011000110001100100000010000"
+  },
+  {
+    "day": 7,
+    "file": "00g_window_view.jpg",
+    "caption": "Вид из окна, ради которого стоит проснуться пораньше.\n\nA window view worth waking up early for.\n\n#africa #zimbabwe #view #hills #nature",
+    "status": "pending",
+    "ref_hash": "0000000000000010000000000000100000000000000100100000000000100110000000000100110100000000000011010000000001001101001001111001111100010010110010111001110000010110000011001011011101001100101111000000000100110110011000110011101010000111110011010001011100000110"
+  },
+  {
+    "day": 8,
+    "file": "00h_empty_beach.jpg",
+    "caption": "Пустой пляж, белый песок и одна хижина.\n\nAn empty beach, white sand and a single hut.\n\n#beach #africa #indianocean #travel #sand",
+    "status": "pending",
+    "ref_hash": "0000000000001011000000001001111110000000100110111001011111001001000110101101010010000000110111011000000000011101100000100111110100000001001011110010000100010010010000010010001000000001101001100000000010001110000000111100111000000011100111100000001100010110"
+  },
+  {
+    "day": 9,
+    "file": "00i_palm_ocean.jpg",
+    "caption": "Пальма, океан и вечернее солнце.\n\nA palm, the ocean and the evening sun.\n\n#palm #ocean #sunset #africa #travel",
+    "status": "pending",
+    "ref_hash": "0110011111001010101100010111101110011011001111100100111101100000011001111001001110001001001110110110001100110001010011100001101100011001001000010101101010011000101101100001000001100110010100001110011001001000110001100001011110100110000100010100011001000000"
+  },
+  {
+    "day": 10,
+    "file": "00j_akademik_fedorov.jpg",
+    "caption": "«Академик Фёдоров» у причала — ледокол, который ходит в Антарктиду.\n\nAkademik Fedorov at the pier — an icebreaker that sails to Antarctica.\n\n#akademikfedorov #icebreaker #ship #antarctica #port",
+    "status": "pending",
+    "ref_hash": "0001011000110110000111001011010110001111001101000100110100110110010110010010110010011011001011001101001000011101110101110000011010110101000011101011110100101110101010010001111010011000001100111011000100101111001100000001001001100010000110010111000001010010"
+  },
+  {
+    "day": 11,
     "file": "01_rhinos.jpg",
     "caption": "Носороги в заповеднике Imire, Зимбабве — живые динозавры саванны.\n\nRhinos at Imire, Zimbabwe — living dinosaurs of the savanna.\n\n#rhino #zimbabwe #imire #wildlife #africa #safari",
     "status": "pending",
@@ -22,7 +78,7 @@
     "original_name": "IMG_1645"
   },
   {
-    "day": 4,
+    "day": 12,
     "file": "02_zebras.jpg",
     "caption": "Две зебры — ни одной одинаковой полоски. Зимбабве.\n\nTwo zebras — not a single stripe alike. Zimbabwe.\n\n#zebra #africa #wildlife #safari #zimbabwe",
     "status": "pending",
@@ -30,7 +86,7 @@
     "original_name": "IMG_9072"
   },
   {
-    "day": 5,
+    "day": 13,
     "file": "03_giraffe.jpg",
     "caption": "Жираф выходит из-за деревьев. Imire, Зимбабве.\n\nA giraffe steps out of the trees. Imire, Zimbabwe.\n\n#giraffe #savanna #zimbabwe #wildlife #africa",
     "status": "pending",
@@ -38,7 +94,7 @@
     "original_name": "IMG_1674"
   },
   {
-    "day": 6,
+    "day": 14,
     "file": "04_antelopes.jpg",
     "caption": "Антилопы в сухой траве саванны.\n\nAntelopes in the dry savanna grass.\n\n#antelope #africa #wildlife #savanna #zimbabwe",
     "status": "pending",
@@ -46,7 +102,7 @@
     "original_name": "IMG_1625"
   },
   {
-    "day": 7,
+    "day": 15,
     "file": "05_warthogs.jpg",
     "caption": "Бородавочники — местные хозяева саванны.\n\nWarthogs — the locals of the savanna.\n\n#warthog #africa #wildlife #zimbabwe #safari",
     "status": "pending",
@@ -54,7 +110,7 @@
     "original_name": "IMG_1617"
   },
   {
-    "day": 8,
+    "day": 16,
     "file": "06_balancing_rocks.jpg",
     "caption": "Камни, которые держатся друг на друге миллионы лет. Под Хараре.\n\nRocks balancing for millions of years. Near Harare.\n\n#balancingrocks #zimbabwe #harare #africa #landscape",
     "status": "pending",
@@ -62,7 +118,7 @@
     "original_name": "IMG_0941"
   },
   {
-    "day": 9,
+    "day": 17,
     "file": "07_wing_sunset.jpg",
     "caption": "Закат на крыле. Следующая остановка — Москва.\n\nSunset on the wing. Next stop — Moscow.\n\n#windowseat #sunset #aviation #travel #flight",
     "status": "pending",
@@ -70,7 +126,7 @@
     "original_name": "20210616_193724"
   },
   {
-    "day": 10,
+    "day": 18,
     "file": "08_moscow_red_sky.jpg",
     "caption": "Глава 2: Москва. Город встречает огненным небом.\n\nChapter 2: Moscow. The city greets me with a sky on fire.\n\n#moscow #sunset #redsky #clouds #russia",
     "status": "pending",
@@ -78,7 +134,7 @@
     "original_name": "20210604_211741"
   },
   {
-    "day": 11,
+    "day": 19,
     "file": "09_st_basil.jpg",
     "caption": "Собор Василия Блаженного — сказка из камня.\n\nSt. Basil's Cathedral — a fairy tale in stone.\n\n#moscow #stbasilscathedral #redsquare #architecture",
     "status": "pending",
@@ -86,7 +142,7 @@
     "original_name": "20240902_184917"
   },
   {
-    "day": 12,
+    "day": 20,
     "file": "10_catholic_cathedral.jpg",
     "caption": "Готика в сердце Москвы — католический собор.\n\nGothic in the heart of Moscow — the Catholic cathedral.\n\n#moscow #cathedral #gothic #architecture",
     "status": "pending",
@@ -94,7 +150,7 @@
     "original_name": "20220302_143610"
   },
   {
-    "day": 13,
+    "day": 21,
     "file": "11_new_jerusalem.jpg",
     "caption": "Новоиерусалимский монастырь — час от Москвы.\n\nNew Jerusalem Monastery — an hour from Moscow.\n\n#newjerusalem #monastery #russia #orthodox",
     "status": "pending",
@@ -102,7 +158,7 @@
     "original_name": "IMG_1167"
   },
   {
-    "day": 14,
+    "day": 22,
     "file": "12_sunflowers_storm.jpg",
     "caption": "Глава 3: по России. Гроза над полем подсолнухов, Воронежская область.\n\nChapter 3: across Russia. A storm over sunflowers, Voronezh region.\n\n#sunflowers #storm #russia #fields #nature",
     "status": "pending",
@@ -110,7 +166,7 @@
     "original_name": "IMG_4562"
   },
   {
-    "day": 15,
+    "day": 23,
     "file": "13_swan.jpg",
     "caption": "Белый лебедь расправляет крылья.\n\nA white swan spreads its wings.\n\n#swan #birds #wildlife #nature",
     "status": "pending",
@@ -118,7 +174,7 @@
     "original_name": "IMG_9494"
   },
   {
-    "day": 16,
+    "day": 24,
     "file": "14_kaliningrad.jpg",
     "caption": "Кафедральный собор Калининграда — семь веков истории.\n\nKaliningrad Cathedral — seven centuries of history.\n\n#kaliningrad #cathedral #gothic #architecture",
     "status": "pending",
@@ -126,7 +182,7 @@
     "original_name": "IMG_2297"
   },
   {
-    "day": 17,
+    "day": 25,
     "file": "15_crimea_moon.jpg",
     "caption": "Луна прокладывает дорожку к скалам. Крым.\n\nThe moon lays a path to the rocks. Crimea.\n\n#crimea #moonlight #blacksea #night #sea",
     "status": "pending",
@@ -134,7 +190,7 @@
     "original_name": "IMG_4947"
   },
   {
-    "day": 18,
+    "day": 26,
     "file": "16_ice.jpg",
     "caption": "Лёд, вставший на дыбы.\n\nIce standing on end.\n\n#ice #winter #frozen #nature #landscape",
     "status": "pending",
@@ -142,7 +198,7 @@
     "original_name": "IMG_9338"
   },
   {
-    "day": 19,
+    "day": 27,
     "file": "17_baikal_sunset.jpg",
     "caption": "Байкал провожает солнце.\n\nLake Baikal saying goodbye to the sun.\n\n#baikal #lakebaikal #sunset #siberia #nature",
     "status": "pending",
@@ -150,7 +206,7 @@
     "original_name": "dv0c5854-hdr"
   },
   {
-    "day": 20,
+    "day": 28,
     "file": "18_st_patrick_nyc.jpg",
     "caption": "Глава 4: дальние страны. Собор Святого Патрика среди небоскрёбов Нью-Йорка.\n\nChapter 4: far lands. St. Patrick's Cathedral among NYC skyscrapers.\n\n#newyork #stpatrickscathedral #nyc #gothic",
     "status": "pending",
@@ -161,7 +217,7 @@
     }
   },
   {
-    "day": 21,
+    "day": 29,
     "file": "19_niagara.jpg",
     "caption": "Ниагара: стоишь рядом — и слышишь, как дышит земля.\n\nNiagara: stand close and you hear the earth breathe.\n\n#niagarafalls #waterfall #nature #travel",
     "status": "pending",
@@ -173,7 +229,7 @@
     }
   },
   {
-    "day": 22,
+    "day": 30,
     "file": "20_china_pagoda.jpg",
     "caption": "Пагода в горах Китая.\n\nA pagoda in the mountains of China.\n\n#china #pagoda #temple #asia #travel",
     "status": "pending",
@@ -181,7 +237,7 @@
     "original_name": "IMG_0005"
   },
   {
-    "day": 23,
+    "day": 31,
     "file": "21_giraffe_drinking.jpg",
     "caption": "Жираф на водопое — самая неудобная поза в саванне. Imire, Зимбабве.\n\nA giraffe drinking — the most awkward pose in the savanna. Imire, Zimbabwe.\n\n#giraffe #zimbabwe #imire #wildlife #africa",
     "status": "pending",
@@ -189,7 +245,7 @@
     "original_name": "IMG_1668"
   },
   {
-    "day": 24,
+    "day": 32,
     "file": "22_zimbabwe_hills.jpg",
     "caption": "Холмы Зимбабве до самого горизонта.\n\nThe hills of Zimbabwe all the way to the horizon.\n\n#zimbabwe #africa #landscape #hills #nature",
     "status": "pending",
@@ -197,7 +253,7 @@
     "original_name": "IMG_9155"
   },
   {
-    "day": 25,
+    "day": 33,
     "file": "23_african_sunset.jpg",
     "caption": "Африканский закат.\n\nAn African sunset.\n\n#africa #sunset #zimbabwe #sky #nature",
     "status": "pending",
@@ -205,7 +261,7 @@
     "original_name": "IMG_0849"
   },
   {
-    "day": 26,
+    "day": 34,
     "file": "24_gull.jpg",
     "caption": "Чайка позирует на борту.\n\nA gull posing on deck.\n\n#seagull #birds #sea #travel #nature",
     "status": "pending",
@@ -213,7 +269,7 @@
     "original_name": "DSC07724"
   },
   {
-    "day": 27,
+    "day": 35,
     "file": "25_fog_lake.jpg",
     "caption": "Утренний туман над озером, Ярославская область.\n\nMorning mist over a lake, Yaroslavl region.\n\n#russia #lake #morning #mist #nature",
     "status": "pending",
@@ -221,7 +277,7 @@
     "original_name": "20200606_041705"
   },
   {
-    "day": 28,
+    "day": 36,
     "file": "26_ayu_dag.jpg",
     "caption": "Аю-Даг — Медведь-гора — с высоты. Крым.\n\nBear Mountain from above. Crimea.\n\n#crimea #ayudag #blacksea #coast #travel",
     "status": "pending",
@@ -229,7 +285,7 @@
     "original_name": "20220805_152124"
   },
   {
-    "day": 29,
+    "day": 37,
     "file": "27_hoarfrost.jpg",
     "caption": "Иней превратил деревья в кружево.\n\nHoarfrost turned the trees into lace.\n\n#winter #hoarfrost #snow #russia #nature",
     "status": "pending",
@@ -237,7 +293,7 @@
     "original_name": "20201206_125127"
   },
   {
-    "day": 30,
+    "day": 38,
     "file": "28_kazan_cathedral.jpg",
     "caption": "Казанский собор на Красной площади.\n\nKazan Cathedral on Red Square.\n\n#moscow #redsquare #cathedral #architecture",
     "status": "pending",
@@ -245,7 +301,7 @@
     "original_name": "20210726_163348"
   },
   {
-    "day": 31,
+    "day": 39,
     "file": "29_riga_st_peter.jpg",
     "caption": "Церковь Святого Петра, Рига.\n\nSt. Peter's Church, Riga.\n\n#riga #latvia #church #architecture #travel",
     "status": "pending",
@@ -253,7 +309,7 @@
     "original_name": "IMG_1222"
   },
   {
-    "day": 32,
+    "day": 40,
     "file": "30_gothic_interior.jpg",
     "caption": "Готические своды.\n\nGothic vaults.\n\n#gothic #church #architecture #interior #travel",
     "status": "pending",
@@ -261,7 +317,7 @@
     "original_name": "IMG_2413"
   },
   {
-    "day": 33,
+    "day": 41,
     "file": "31_carved_belltower.jpg",
     "caption": "Резная колокольня из красного кирпича.\n\nA carved red-brick bell tower.\n\n#belltower #architecture #russia #church",
     "status": "pending",
@@ -269,7 +325,7 @@
     "original_name": "20220907_142136"
   },
   {
-    "day": 34,
+    "day": 42,
     "file": "32_white_church.jpg",
     "caption": "Белокаменный храм.\n\nA white-stone church.\n\n#church #architecture #russia #orthodox",
     "status": "pending",
@@ -277,7 +333,7 @@
     "original_name": "IMG_7020"
   },
   {
-    "day": 35,
+    "day": 43,
     "file": "33_church_stairs.jpg",
     "caption": "Храм с парадной лестницей.\n\nA church with a grand staircase.\n\n#church #architecture #russia #travel",
     "status": "pending",
@@ -285,7 +341,7 @@
     "original_name": "IMG_2521"
   },
   {
-    "day": 36,
+    "day": 44,
     "file": "34_red_church.jpg",
     "caption": "Красный храм с золотыми куполами.\n\nA red church with golden domes.\n\n#moscow #church #orthodox #architecture",
     "status": "pending",
@@ -293,7 +349,7 @@
     "original_name": "20220427_152523"
   },
   {
-    "day": 37,
+    "day": 45,
     "file": "35_white_blue_domes.jpg",
     "caption": "Белые стены, тёмные купола.\n\nWhite walls, dark domes.\n\n#church #orthodox #architecture #russia",
     "status": "pending",
@@ -301,7 +357,7 @@
     "original_name": "IMG_1694"
   },
   {
-    "day": 38,
+    "day": 46,
     "file": "36_sailboat.jpg",
     "caption": "Парусник в открытом море.\n\nA sailboat on the open sea.\n\n#sea #sailing #blacksea #travel #summer",
     "status": "pending",
@@ -309,7 +365,7 @@
     "original_name": "20220727_120641"
   },
   {
-    "day": 39,
+    "day": 47,
     "file": "37_utyos_dawn.jpg",
     "caption": "Вечер над скалами. Утёс, Крым.\n\nEvening over the rocks. Crimea.\n\n#crimea #blacksea #sea #rocks #sunset",
     "status": "pending",
@@ -317,7 +373,7 @@
     "original_name": "20200818_192759"
   },
   {
-    "day": 40,
+    "day": 48,
     "file": "38_sevastopol_rock.jpg",
     "caption": "Скала в море. Севастополь.\n\nA rock in the sea. Sevastopol.\n\n#sevastopol #crimea #sea #rocks #travel",
     "status": "pending",
@@ -325,7 +381,7 @@
     "original_name": "20200819_141701"
   },
   {
-    "day": 41,
+    "day": 49,
     "file": "39_harare_sunset.jpg",
     "caption": "Закат в Хараре.\n\nSunset in Harare.\n\n#harare #zimbabwe #sunset #africa #sky",
     "status": "pending",
@@ -333,7 +389,7 @@
     "original_name": "IMG_3247"
   },
   {
-    "day": 42,
+    "day": 50,
     "file": "40_dubai_palms.jpg",
     "caption": "Пальмы на закате. Дубай.\n\nPalms at sunset. Dubai.\n\n#dubai #palms #sunset #uae #travel",
     "status": "pending",
@@ -341,7 +397,7 @@
     "original_name": "IMG_3697"
   },
   {
-    "day": 43,
+    "day": 51,
     "file": "41_baikal_listvyanka.jpg",
     "caption": "Байкал вечером. Горы на том берегу будто нарисованы.\n\nLake Baikal at dusk. The mountains across look painted.\n\n#baikal #lakebaikal #siberia #mountains #nature",
     "status": "pending",
@@ -349,7 +405,7 @@
     "original_name": "IMG_0379"
   },
   {
-    "day": 44,
+    "day": 52,
     "file": "42_snowy_pines.jpg",
     "caption": "Сосны в снегу.\n\nPines in the snow.\n\n#winter #snow #forest #pines #nature",
     "status": "pending",
@@ -357,7 +413,7 @@
     "original_name": "dv0c5026"
   },
   {
-    "day": 45,
+    "day": 53,
     "file": "43_daisies_volcano.jpg",
     "caption": "Ромашки на фоне вулкана. Курилы.\n\nDaisies against a volcano. Kuril Islands.\n\n#kurilislands #volcano #flowers #nature #travel",
     "status": "pending",
@@ -365,7 +421,7 @@
     "original_name": "DSC08938"
   },
   {
-    "day": 46,
+    "day": 54,
     "file": "44_lake_morning.jpg",
     "caption": "Утро на озере. Рыбинский район.\n\nMorning on the lake. Rybinsk district.\n\n#russia #lake #morning #calm #nature",
     "status": "pending",
@@ -373,7 +429,7 @@
     "original_name": "IMG_0427"
   },
   {
-    "day": 47,
+    "day": 55,
     "file": "45_passion_flower.jpg",
     "caption": "Пассифлора — цветок, похожий на часы.\n\nPassion flower — it looks like a clock.\n\n#passionflower #flowers #macro #nature #garden",
     "status": "pending",
@@ -381,7 +437,7 @@
     "original_name": "20230801_150025"
   },
   {
-    "day": 48,
+    "day": 56,
     "file": "46_mayakovskaya.jpg",
     "caption": "«Маяковская» — подземный дворец Москвы.\n\nMayakovskaya — Moscow's underground palace.\n\n#moscow #moscowmetro #architecture #metro",
     "status": "pending",
@@ -389,7 +445,7 @@
     "original_name": "IMG_3582"
   },
   {
-    "day": 49,
+    "day": 57,
     "file": "47_baku_aliyev_center.jpg",
     "caption": "Центр Гейдара Алиева — здание без единого прямого угла. Баку.\n\nHeydar Aliyev Center — not a single straight line. Baku.\n\n#baku #azerbaijan #zahahadid #architecture",
     "status": "pending",
@@ -397,7 +453,28 @@
     "original_name": "IMG_0266"
   },
   {
-    "day": 50,
+    "day": 58,
+    "file": "47b_glass_sail.jpg",
+    "caption": "Стеклянный парус, в котором отражается небо.\n\nA glass sail reflecting the sky.\n\n#architecture #glass #modern #reflection #sky",
+    "status": "pending",
+    "ref_hash": "0101101110001100010111001001110001011001100111010111000110010111111010011001110011011001100111010111001110010111111100111101111110110010110101111100011111011110110011111001111011000011100001001100011101100110110001111010011000110100000011111110000010000011"
+  },
+  {
+    "day": 59,
+    "file": "47c_glass_reflection.jpg",
+    "caption": "Старое здание в зеркале нового.\n\nAn old building in the mirror of a new one.\n\n#architecture #reflection #glass #oldandnew",
+    "status": "pending",
+    "ref_hash": "0000011101101001110010111100100101111000010100110011011000010111101000001101011001100001011100110110110010111011011010100001100101101110111000011110101110100000111011110001100001110011101111001011011100111110110101011011111011001100101011100001101010011100"
+  },
+  {
+    "day": 60,
+    "file": "47d_dark_spike.jpg",
+    "caption": "Чёрный шпиль на фоне грозового неба.\n\nA black spike against a stormy sky.\n\n#architecture #minimal #geometry #sky",
+    "status": "pending",
+    "ref_hash": "0000111111110000000001110111000000000011011100000000001100110110001101110011011000010110000101000011011000010100110011101001001111101101100001111110110110001111011011010100111101011011010001110101101001100011111110100010001110110110001000011011011101010000"
+  },
+  {
+    "day": 61,
     "file": "48_tower_bridge.jpg",
     "caption": "Тауэрский мост. Лондон.\n\nTower Bridge. London.\n\n#london #towerbridge #thames #travel",
     "status": "pending",
@@ -405,7 +482,7 @@
     "original_name": "IMG_6178"
   },
   {
-    "day": 51,
+    "day": 62,
     "file": "49_burj_khalifa.jpg",
     "caption": "Бурдж-Халифа ночью. Дубай.\n\nBurj Khalifa at night. Dubai.\n\n#dubai #burjkhalifa #night #skyscraper",
     "status": "pending",
@@ -413,7 +490,35 @@
     "original_name": "IMG_2453"
   },
   {
-    "day": 52,
+    "day": 63,
+    "file": "49b_ain_dubai.jpg",
+    "caption": "Колесо обозрения Ain Dubai — самое большое в мире.\n\nAin Dubai — the world's largest observation wheel.\n\n#dubai #aindubai #bluewaters #night #uae",
+    "status": "pending",
+    "ref_hash": "1110011110100111011001010000101010110011001110001110011100100011001001001110011100010100011101100110101001100101011010100101101100110110110011111011110001101010111110010100101000011001000110110000101001101111000001100100011100000110000001110010000111101100"
+  },
+  {
+    "day": 64,
+    "file": "49c_bluewaters_above.jpg",
+    "caption": "Остров Bluewaters с высоты.\n\nBluewaters Island from above.\n\n#dubai #bluewaters #aerial #night #uae",
+    "status": "pending",
+    "ref_hash": "1111000000000000111100100000000011110010000000001111101000000000111110000000010011110000110010101100110000100011001100000011010011100000100110101110110010001110001000111010010100011001010110100000000101011001000000100100111100000100000111010000000000001011"
+  },
+  {
+    "day": 65,
+    "file": "49d_jbr_night.jpg",
+    "caption": "Ночная Дубай Марина с высоты.\n\nDubai Marina at night from above.\n\n#dubai #dubaimarina #jbr #night #citylights",
+    "status": "pending",
+    "ref_hash": "1001111111111111000110111111111101110001111111111111000011111111111100001001111111110100111110010001000111101001000101111100010101111111001101000111011011001000001101101110100100110111001101000101001101011110010110011011010010011100111110001000110000111111"
+  },
+  {
+    "day": 66,
+    "file": "49e_rooftop_pool.jpg",
+    "caption": "Бассейн на крыше над ночным Дубаем.\n\nA rooftop pool above night-time Dubai.\n\n#dubai #rooftop #infinitypool #night #luxury",
+    "status": "pending",
+    "ref_hash": "1010000111111010100101111100111110101101100011111110011100111101011100010011000101001011110100110111111011100000001111001111000000111101010000100011010111000011010110111000001100011101100100100110011011000110110001110000011110011111010011100110111111001110"
+  },
+  {
+    "day": 67,
     "file": "50_above_clouds.jpg",
     "caption": "Над облаками.\n\nAbove the clouds.\n\n#clouds #windowseat #flight #sky #travel",
     "status": "pending",
@@ -421,7 +526,7 @@
     "original_name": "IMG_2784"
   },
   {
-    "day": 53,
+    "day": 68,
     "file": "51_vilankulo_palms.jpg",
     "caption": "Пальмы у океана. Виланкулу, Мозамбик.\n\nPalms by the ocean. Vilankulo, Mozambique.\n\n#mozambique #vilankulo #indianocean #palms #beach",
     "status": "pending",
@@ -429,7 +534,7 @@
     "original_name": "IMG_1044"
   },
   {
-    "day": 54,
+    "day": 69,
     "file": "52_palms_moonlight.jpg",
     "caption": "Пальмы в лунном свете.\n\nPalms in the moonlight.\n\n#palms #moonlight #night #ocean #africa",
     "status": "pending",
@@ -437,7 +542,7 @@
     "original_name": "IMG_0845"
   },
   {
-    "day": 55,
+    "day": 70,
     "file": "53_christ_saviour.jpg",
     "caption": "Храм Христа Спасителя.\n\nCathedral of Christ the Saviour.\n\n#moscow #cathedral #orthodox #architecture",
     "status": "pending",
@@ -445,7 +550,7 @@
     "original_name": "20220428_160948"
   },
   {
-    "day": 56,
+    "day": 71,
     "file": "54_izmailovo_kremlin.jpg",
     "caption": "Измайловский кремль. Москва.\n\nIzmailovo Kremlin. Moscow.\n\n#moscow #izmailovo #kremlin #architecture",
     "status": "pending",
@@ -453,7 +558,7 @@
     "original_name": "IMG_5182"
   },
   {
-    "day": 57,
+    "day": 72,
     "file": "55_edinburgh.jpg",
     "caption": "Эдинбург.\n\nEdinburgh.\n\n#edinburgh #scotland #gothic #architecture #travel",
     "status": "pending",
@@ -461,7 +566,7 @@
     "original_name": "IMG_0522"
   },
   {
-    "day": 58,
+    "day": 73,
     "file": "56_city_night.jpg",
     "caption": "Огни ночного города.\n\nCity lights at night.\n\n#night #city #architecture #lights",
     "status": "pending",
@@ -469,7 +574,7 @@
     "original_name": "20221013_211435"
   },
   {
-    "day": 59,
+    "day": 74,
     "file": "57_fish_sunset.jpg",
     "caption": "Поймал рыбу — и закат в придачу.\n\nCaught a fish — and a sunset as a bonus.\n\n#fishing #sunset #lake #catch #nature",
     "status": "pending",
@@ -477,7 +582,7 @@
     "original_name": "IMG_3906"
   },
   {
-    "day": 60,
+    "day": 75,
     "file": "58_bird_skimming.jpg",
     "caption": "Птица касается воды крылом. Поймать этот момент — удача.\n\nA bird touching the water with its wing. Lucky to catch this moment.\n\n#birds #sea #wildlife #timing #nature",
     "status": "pending",
@@ -485,7 +590,7 @@
     "original_name": "DSC08782"
   },
   {
-    "day": 61,
+    "day": 76,
     "file": "59_red_plane.jpg",
     "caption": "Красный самолёт в синем небе.\n\nA red plane in a blue sky.\n\n#aviation #plane #sky #airshow #flight",
     "status": "pending",
@@ -493,7 +598,7 @@
     "original_name": "135716_original"
   },
   {
-    "day": 62,
+    "day": 77,
     "file": "60_volcano_from_plane.jpg",
     "caption": "Вулкан с высоты полёта — вершина над облаками.\n\nA volcano from cruising altitude — a peak above the clouds.\n\n#volcano #windowseat #mountains #aerial #travel",
     "status": "pending",
@@ -501,7 +606,7 @@
     "original_name": "20210529_183401"
   },
   {
-    "day": 63,
+    "day": 78,
     "file": "61_tribute_in_light.jpg",
     "caption": "Два луча света в небе Нью-Йорка — «Дань памяти», 11 сентября.\n\nTwin beams over New York — Tribute in Light, September 11.\n\n#newyork #tributeinlight #911 #nyc #night",
     "status": "pending",
@@ -509,7 +614,7 @@
     "original_name": "DSC08288"
   },
   {
-    "day": 64,
+    "day": 79,
     "file": "62_hare.jpg",
     "caption": "Заяц на опушке.\n\nA hare at the edge of the forest.\n\n#hare #wildlife #nature #forest #animals",
     "status": "pending",
@@ -517,7 +622,7 @@
     "original_name": "IMG_9620"
   },
   {
-    "day": 65,
+    "day": 80,
     "file": "63_opossum.jpg",
     "caption": "Опоссум притворяется мёртвым — его главный трюк.\n\nAn opossum playing dead — its signature trick.\n\n#opossum #wildlife #animals #usa #nature",
     "status": "pending",
@@ -528,7 +633,7 @@
     }
   },
   {
-    "day": 66,
+    "day": 81,
     "file": "64_pike.jpg",
     "caption": "Пасть щуки крупным планом.\n\nA pike's jaws up close.\n\n#pike #fishing #catch #nature #closeup",
     "status": "pending",
@@ -536,7 +641,7 @@
     "original_name": "IMG_9449"
   },
   {
-    "day": 67,
+    "day": 82,
     "file": "65_jetski.jpg",
     "caption": "Брызги до горизонта.\n\nSpray to the horizon.\n\n#sea #jetski #summer #speed #waves",
     "status": "pending",
@@ -544,7 +649,7 @@
     "original_name": "20230808_152912"
   },
   {
-    "day": 68,
+    "day": 83,
     "file": "66_moon_path.jpg",
     "caption": "Луна над морем.\n\nThe moon over the sea.\n\n#moon #moonlight #sea #night #calm",
     "status": "pending",
@@ -552,7 +657,7 @@
     "original_name": "IMG_4988"
   },
   {
-    "day": 69,
+    "day": 84,
     "file": "67_baikal_dramatic_sunset.jpg",
     "caption": "Огненная полоса заката над Байкалом.\n\nA fiery strip of sunset over Lake Baikal.\n\n#baikal #sunset #siberia #lake #sky",
     "status": "pending",
@@ -560,7 +665,7 @@
     "original_name": "dv0c5830-hdr"
   },
   {
-    "day": 70,
+    "day": 85,
     "file": "68_pink_winter_sunset.jpg",
     "caption": "Розовый зимний закат.\n\nA pink winter sunset.\n\n#winter #sunset #pink #sky #nature",
     "status": "pending",
@@ -568,7 +673,7 @@
     "original_name": "20201121_170333"
   },
   {
-    "day": 71,
+    "day": 86,
     "file": "69_gulls_over_waves.jpg",
     "caption": "Чайки над кильватером.\n\nGulls over the wake.\n\n#seagulls #sea #boat #waves #mountains",
     "status": "pending",
@@ -576,7 +681,7 @@
     "original_name": "IMG_3877"
   },
   {
-    "day": 72,
+    "day": 87,
     "file": "70_niagara_from_water.jpg",
     "caption": "Ниагара с воды.\n\nNiagara from the water.\n\n#niagarafalls #waterfall #boat #travel",
     "status": "pending",
@@ -587,7 +692,7 @@
     }
   },
   {
-    "day": 73,
+    "day": 88,
     "file": "71_wooden_church.jpg",
     "caption": "Деревянная церковь.\n\nA wooden church.\n\n#church #wooden #architecture #russia",
     "status": "pending",
@@ -595,7 +700,7 @@
     "original_name": "IMG_5722"
   },
   {
-    "day": 74,
+    "day": 89,
     "file": "72_duck.jpg",
     "caption": "Утка прихорашивается.\n\nA duck preening.\n\n#duck #birds #wildlife #water #nature",
     "status": "pending",
