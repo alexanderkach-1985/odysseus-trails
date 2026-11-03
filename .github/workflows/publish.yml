@@ -40,7 +40,7 @@ jobs:
       - name: Публикация поста дня
         if: github.event_name != 'push'
         env:
-          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID || '17841454489331539' }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
